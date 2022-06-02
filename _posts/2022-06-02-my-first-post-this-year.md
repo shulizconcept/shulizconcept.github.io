@@ -5,8 +5,6 @@ subtitle: Quick summary
 categories: Website
 tags: [Github, website]
 ---
-
-## how i built my website
 1. I created a github account
 2. I cloned a repository from https://github.com/datamaunz
 3. I renamed the cloned repository shulizconcepts.github.io
